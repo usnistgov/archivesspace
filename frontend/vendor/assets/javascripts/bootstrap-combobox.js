@@ -197,6 +197,7 @@
     />
     <div class="input-group-append">
       <button class="btn btn-default dropdown-toggle d-flex align-items-center" type="button" data-toggle="dropdown" aria-expanded="false">
+        <span class="sr-only">Toggle dropdown</span>
         <span class="glyphicon glyphicon-remove mb-1"></span>
       </button>
     </div>
